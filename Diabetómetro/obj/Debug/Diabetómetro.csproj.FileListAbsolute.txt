@@ -1,0 +1,14 @@
+C:\Users\maste\Desktop\EPI_PRA_P2017_Carlos_Alfredo_Keila_Josephat\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\maste\Desktop\EPI_PRA_P2017_Carlos_Alfredo_Keila_Josephat\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\maste\Desktop\EPI_PRA_P2017_Carlos_Alfredo_Keila_Josephat\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\maste\Desktop\Diabetómetro\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\maste\Desktop\Diabetómetro\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\maste\Desktop\Diabetómetro\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\maste\Desktop\Diabetómetro\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\maste\Desktop\Diabetómetro\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\maste\Desktop\Diabetómetro\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\maste\Desktop\Diabetómetro\WindowsFormsApplication2\bin\Debug\MySql.Data.xml
+C:\Users\maste\Desktop\Diabetómetro\WindowsFormsApplication2\obj\Debug\Diabetómetro.csprojResolveAssemblyReference.cache
+C:\Users\maste\Desktop\Diabetómetro\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\maste\Desktop\Diabetómetro\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\maste\Desktop\Diabetómetro\WindowsFormsApplication2\obj\Debug\Diabetómetro.csproj.GenerateResource.Cache
